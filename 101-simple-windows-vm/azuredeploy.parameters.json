@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "newStorageAccountName": {
-      "value": "unique-name-you-recorded-in-exercise-2"
+      "value": "dmgstore1"
     },
     "adminUsername": {
       "value": "admin123"
@@ -12,7 +12,7 @@
       "value": "Passw0rd!"
     },
     "dnsNameForPublicIP": {
-      "value": "your-initials-plus4-or-more-random-integers-to-ensure-name-uniqueness"
+      "value": "dmg6685"
     },
     "location": {
       "value": "West US"
